@@ -1,4 +1,5 @@
-LA premier a tester c est celle la 
+Voir https://websec.ca/kb/sql_injection
+La premiere a tester c est celle la 
 ' OR 1=1 -- -
 or 1=1
 or 1=1--
